@@ -1,0 +1,1 @@
+XLA_PYTHON_CLIENT_MEM_FRACTION=".5" python ./ml_py_runner.py
